@@ -3,61 +3,62 @@
 export const Work = [
     {
         id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
+        name:"My First Protfolio",
+        description:"My first portfolio I made with the help of HTML, CSS and Javascript",
+        tags:["html","css","javascript"],
         
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
+        demo:"https://kumararyan0530.github.io/",
+        github:"https://github.com/KumarAryan0530/KumarAryan0530.github.io"
     },
     {
         id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
+        name:"TaazaKhabar",
+        description:"A news application made by using React Native. Fetch real time news and also shows trending news",
+        tags:["react","react-native", "javascript", "nodeJS"],
         
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        demo:"https://github.com/vinaynathtiwary/TazaKhabar",
+        github:"https://github.com/vinaynathtiwary/TazaKhabar"
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
+        name:"Weather App",
+        description:"Weather app which fetch the real time environment conditions parameters. It is made by using HTML, CSS and Javascript",
+        tags:["html","css","javascript","api"],
         
-        demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
+        // demo:"http://devto-clone-codebucks27.vercel.app/",
+        github:"https://github.com/KumarAryan0530/Weather-APP"
     },
     {
         id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-        tags:["react","styledComponents","react-router"],
+        name:"Spotipy",
+        description:"A spotify clone made by using reactJS and is also my first react project I made. Let's Rock!!",
+        tags:["react","javascript","html", "css"],
         
-        demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
+        // demo:"https://react-sidebar.vercel.app/",
+        github:"https://github.com/KumarAryan0530/Spotipy"
        
-    },{
-        id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
-        
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
-        
     },
-    {
-        id:6,
-        name:"Responsive Navigation Menu",
-        description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
-        tags:["react","react-router","css"],
+    // {
+    //     id:5,
+    //     name:"Todo App(React + Redux)",
+    //     description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
+    //     tags:["react","redux","framer-motion"],
         
-        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-responsive-navbar"
+    //     demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
+    //     github:"https://github.com/codebucks27/React-Redux-Todo-App"
         
-    },
+    // },
+    // {
+    //     id:6,
+    //     name:"Responsive Navigation Menu",
+    //     description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
+    //     tags:["react","react-router","css"],
+        
+    //     demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
+    //     github:"https://github.com/codebucks27/React-responsive-navbar"
+        
+    // },
     
   
 ] 

@@ -96,10 +96,10 @@ const MySkillsPage = () => {
     <Design width={40} height={40} /> Designer
 </Title>
 <Description>
-I love to create design which speaks, keep it clean, minimal, classic and simple.
+
 </Description>
 <Description>
-<strong>I like to Design</strong>
+<strong>My Designing Skillsets</strong>
 <ul>
     <li>
         Web Design
